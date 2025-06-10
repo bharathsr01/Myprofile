@@ -1,0 +1,14 @@
+{
+  "name": "student-login-demo",
+  "version": "1.0.0",
+  "description": "A simple Node.js project for student login details.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2"
+  }
+}
